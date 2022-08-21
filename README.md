@@ -2,6 +2,8 @@
   <a target="_blank"href="https://github.com/ClaudMor"><img src="https://github-readme-stats.vercel.app/api?username=ClaudMor&count_private=true&show_icons=true&theme=graywhite" /></a>
 </p>
 
+<h2  align="center">📫 Contact</h2>
+
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/claudiomoroni/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
