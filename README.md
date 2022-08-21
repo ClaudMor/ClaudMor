@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 
+<p align="center">
+  <a target="_blank"href="https://github.com/ClaudMor"><img src="https://github-readme-stats.vercel.app/api?username=ClaudMor&count_private=true&show_icons=true&theme=graywhite" /></a>
+</p>
+
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/claudiomoroni/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,11 +16,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
    </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=ClaudMor&style=flat-square&color=blue" align="center" alt=""/>
+<!-- <img src="https://komarev.com/ghpvc/?username=ClaudMor&style=flat-square&color=blue" align="center" alt=""/> -->
 
-<p align="center">
-  <a target="_blank"href="https://github.com/ClaudMor"><img src="https://github-readme-stats.vercel.app/api?username=ClaudMor&count_private=true&show_icons=true&theme=graywhite" /></a>
-</p>
+
 
 
 
