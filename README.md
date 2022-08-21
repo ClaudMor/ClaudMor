@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
    </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=ClaudMor&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=ClaudMor&style=flat-square&color=blue" align="center" alt=""/>
 
 
 
