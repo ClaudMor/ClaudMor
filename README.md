@@ -11,6 +11,7 @@
    <a href="mailto:claudiomor.sci@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
    </a>
+  <img src="https://komarev.com/ghpvc/?username=ClaudMor&style=flat-square&color=blue" alt=""/>
 </div>
 
 
